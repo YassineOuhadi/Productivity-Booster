@@ -16,6 +16,6 @@ Tech Stack
 
 ## Overview
 
-![task2](https://github.com/YassineOuhadi/Productivity-Booster/assets/109771302/66299a51-e642-48f5-86fa-2167ad2f2e2e)
+![task](https://github.com/YassineOuhadi/Productivity-Booster/assets/109771302/a9813d1b-a004-4bbb-9a1e-d01044b5709e)
 
 ## License
