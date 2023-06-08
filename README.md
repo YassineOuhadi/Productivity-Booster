@@ -16,8 +16,6 @@ Tech Stack
 
 ## Overview
 
-![BeFunky-collage](https://user-images.githubusercontent.com/109771302/235226877-394c3599-b8c9-434a-a271-a79ced972290.jpg)
+![task2](https://github.com/YassineOuhadi/Productivity-Booster/assets/109771302/66299a51-e642-48f5-86fa-2167ad2f2e2e)
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENCE](LICENCE.txt) file for details.
