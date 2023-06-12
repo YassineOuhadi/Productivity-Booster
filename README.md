@@ -5,7 +5,4 @@ You can add your todo list into the app set the time for it you will get reminde
 
 ## Overview
 
-![task](https://github.com/YassineOuhadi/Productivity-Booster/assets/109771302/a40f7b23-b526-4ae8-9428-52ad0cfe1089)
-
-
 ## License
